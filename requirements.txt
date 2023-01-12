@@ -1,0 +1,4 @@
+# ::::::::::::: RUN FOLLOWING COMMANDS TO INSTALL DEPENDECIES :::::::::::::
+# :::::::::::: python -m pip install -r requirements.txt ::::::::::::::::::
+
+Flask
