@@ -27,6 +27,10 @@ A flask sample App to get started with Flask
         `set FLASK_ENV=development`
         `set FLASK_DEBUG=True`
         `flask --app hello --debug run`
+
+
+Warning: `Import "flask" could not be resolved`
+Fix: `Ctrl+Shift+P` Select Interpreter `Select Python with .venv `
         
 
 
