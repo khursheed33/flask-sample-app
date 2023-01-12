@@ -18,7 +18,6 @@ A flask sample App to get started with Flask
             <li>Follow if virtual environment is not activated</li>
             <li>Reach to the `.venv/Scripts` or `.venv/bin` if Scripts does not exists</li>
             <li>Then run this command => activate</li>
-
         </ol>
     </ul>
 
